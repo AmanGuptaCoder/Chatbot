@@ -1,5 +1,5 @@
 <div align="center">
-  ![image](https://github.com/AmanGuptaCoder/Chatbot/assets/90703407/34cebae9-1c2c-455a-9d2a-f74d6da66c06)
+![](./assets/1.png)
 </div>
 
 <h1 align="center">Chatbot Project using Next.js, Tailwind CSS, and OpenAI API</h1>
