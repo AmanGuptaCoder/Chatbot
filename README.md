@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![image](https://github.com/AmanGuptaCoder/Chatbot/assets/90703407/34cebae9-1c2c-455a-9d2a-f74d6da66c06)
-" alt="Chatbot Project Screenshot">
+  ![image](https://github.com/AmanGuptaCoder/Chatbot/assets/90703407/34cebae9-1c2c-455a-9d2a-f74d6da66c06)
 </div>
 
 <h1 align="center">Chatbot Project using Next.js, Tailwind CSS, and OpenAI API</h1>
