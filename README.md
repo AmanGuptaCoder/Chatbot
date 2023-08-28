@@ -1,6 +1,6 @@
-<div align="center">
+
 ![](./assets/1.png)
-</div>
+
 
 <h1 align="center">Chatbot Project using Next.js, Tailwind CSS, and OpenAI API</h1>
 
